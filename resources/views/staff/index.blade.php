@@ -1,4 +1,4 @@
-<x-bootstrap title="Staffs">
+<x-bootstrap title="รายการ">
     <div class="row g-4">
         <div class="col-lg-8">
             <a class="btn btn-success" href="{{ route('staff.create') }}"> Create New Staff</a>

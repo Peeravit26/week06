@@ -35,7 +35,7 @@
             </div>
             <div class="col-md-12">
                 <strong>birthdate:</strong>
-                <textarea class="form-control" style="height:150px" name="birthdate" placeholder="Detail"></textarea>
+                <input type="date" class="form-control"  name="birthdate" placeholder="Detail"></textarea>
             </div>
             <div class="col-md-12">
                 <strong>phone: </strong>
